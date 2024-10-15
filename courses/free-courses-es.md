@@ -47,7 +47,7 @@
 
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 * [Curso Arduino desde cero en Español fácil y didáctico](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) - Bitwise Ar
-
+* [Curso Arduino para principiantes - Mi Electrónica Fácil](https://mielectronicafacil.com/cursos/arduino-principiante)
 
 ### Bases de Datos
 
